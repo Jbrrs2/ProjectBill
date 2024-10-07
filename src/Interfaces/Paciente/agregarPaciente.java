@@ -31,7 +31,7 @@ public class agregarPaciente extends javax.swing.JFrame {
         
 
     }
-    public void nuevometodo(){
+    public void eeeeeeeeeeeeeeeeeeeee(){
         
     }
 
